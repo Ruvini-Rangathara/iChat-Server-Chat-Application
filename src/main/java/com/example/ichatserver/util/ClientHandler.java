@@ -1,6 +1,5 @@
 package com.example.ichatserver.util;
 
-import javax.mail.MessagingException;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;

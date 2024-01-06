@@ -22,13 +22,6 @@
             <version>9.0.10</version>
         </dependency>
 
-        <!-- JavaMail API -->
-        <dependency>
-            <groupId>com.sun.mail</groupId>
-            <artifactId>javax.mail</artifactId>
-            <version>1.6.2</version>
-        </dependency>
-
         <!-- Java Activation Framework (JAF) -->
         <dependency>
             <groupId>javax.activation</groupId>
